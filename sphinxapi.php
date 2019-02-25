@@ -1,5 +1,5 @@
 <?php
-
+namespace Sphinx;
 //
 // $Id$
 //
