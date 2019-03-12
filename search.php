@@ -20,7 +20,7 @@ $mysql_conf = array(
     'host'    => '127.0.0.1:3306',
     'db'      => 'sphinx',
     'db_user' => 'root',
-    'db_pwd'  => '',
+    'db_pwd'  => '123456',
 );
 $mysqli = @new mysqli($mysql_conf['host'], $mysql_conf['db_user'], $mysql_conf['db_pwd']);
 if ($mysqli->connect_errno) {
