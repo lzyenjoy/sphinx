@@ -1,0 +1,4 @@
+1,更改./core/bin/sphinx.conf的配置选项
+2，打开cmd命令 进去目录./core/bin/
+3，创建索引indexer.exe goods(索引)   如果这个地方创建索引失败，那么可以删除该目录下面的binlog的所以相关文件binlog.lock，binglog.meta，binglog.001
+4，命令执行searchd.exe

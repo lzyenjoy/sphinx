@@ -1,0 +1,9 @@
+[Tue Mar 12 21:43:03.829 2019] [8292] listening on all interfaces, port=9312
+[Tue Mar 12 21:43:03.830 2019] [8292] listening on all interfaces, port=9306
+[Tue Mar 12 21:43:03.836 2019] [8292] binlog: replaying log ./binlog.001
+[Tue Mar 12 21:43:03.836 2019] [8292] FATAL: binlog: log open error: failed to open ./binlog.001: No such file or directory
+[Tue Mar 12 21:43:39.079 2019] [3980] listening on all interfaces, port=9312
+[Tue Mar 12 21:43:39.080 2019] [3980] listening on all interfaces, port=9306
+[Tue Mar 12 21:43:39.087 2019] [3980] accepting connections
+[Tue Mar 12 21:43:39.088 2019] [5944] prereading 1 indexes
+[Tue Mar 12 21:43:39.088 2019] [5944] prereaded 1 indexes in 0.000 sec
