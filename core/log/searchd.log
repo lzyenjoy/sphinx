@@ -7,3 +7,12 @@
 [Tue Mar 12 21:43:39.087 2019] [3980] accepting connections
 [Tue Mar 12 21:43:39.088 2019] [5944] prereading 1 indexes
 [Tue Mar 12 21:43:39.088 2019] [5944] prereaded 1 indexes in 0.000 sec
+[Wed Mar 13 21:03:50.186 2019] [6988] listening on all interfaces, port=9312
+[Wed Mar 13 21:03:50.187 2019] [6988] listening on all interfaces, port=9306
+[Wed Mar 13 21:03:50.191 2019] [6988] binlog: replaying log ./binlog.001
+[Wed Mar 13 21:03:50.192 2019] [6988] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Mar 13 21:03:50.193 2019] [6988] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Mar 13 21:03:50.193 2019] [6988] binlog: finished replaying total 1 in 0.001 sec
+[Wed Mar 13 21:03:50.195 2019] [6988] accepting connections
+[Wed Mar 13 21:03:50.195 2019] [1844] prereading 1 indexes
+[Wed Mar 13 21:03:50.195 2019] [1844] prereaded 1 indexes in 0.000 sec
