@@ -16,3 +16,43 @@
 [Wed Mar 13 21:03:50.195 2019] [6988] accepting connections
 [Wed Mar 13 21:03:50.195 2019] [1844] prereading 1 indexes
 [Wed Mar 13 21:03:50.195 2019] [1844] prereaded 1 indexes in 0.000 sec
+[Mon Mar 18 20:16:34.811 2019] [6472] listening on all interfaces, port=9312
+[Mon Mar 18 20:16:34.813 2019] [6472] listening on all interfaces, port=9306
+[Mon Mar 18 20:16:34.820 2019] [6472] binlog: replaying log ./binlog.001
+[Mon Mar 18 20:16:34.820 2019] [6472] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Mon Mar 18 20:16:34.820 2019] [6472] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Mon Mar 18 20:16:34.821 2019] [6472] binlog: replaying log ./binlog.002
+[Mon Mar 18 20:16:34.821 2019] [6472] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Mon Mar 18 20:16:34.821 2019] [6472] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Mon Mar 18 20:16:34.822 2019] [6472] binlog: finished replaying total 2 in 0.001 sec
+[Mon Mar 18 20:16:34.824 2019] [6472] accepting connections
+[Mon Mar 18 20:16:34.824 2019] [10692] prereading 1 indexes
+[Mon Mar 18 20:16:34.824 2019] [10692] prereaded 1 indexes in 0.000 sec
+[Mon Mar 18 20:20:28.148 2019] [6472] caught SIGTERM, shutting down
+[Mon Mar 18 20:20:28.215 2019] [6472] shutdown complete
+[Mon Mar 18 20:20:39.932 2019] [3080] listening on all interfaces, port=9312
+[Mon Mar 18 20:20:39.933 2019] [3080] listening on all interfaces, port=9306
+[Mon Mar 18 20:20:39.940 2019] [3080] binlog: replaying log ./binlog.001
+[Mon Mar 18 20:20:39.941 2019] [3080] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Mon Mar 18 20:20:39.941 2019] [3080] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Mon Mar 18 20:20:39.941 2019] [3080] binlog: replaying log ./binlog.002
+[Mon Mar 18 20:20:39.941 2019] [3080] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Mon Mar 18 20:20:39.942 2019] [3080] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Mon Mar 18 20:20:39.942 2019] [3080] binlog: finished replaying total 2 in 0.001 sec
+[Mon Mar 18 20:20:39.943 2019] [3080] accepting connections
+[Mon Mar 18 20:20:39.943 2019] [8980] prereading 1 indexes
+[Mon Mar 18 20:20:39.944 2019] [8980] prereaded 1 indexes in 0.000 sec
+[Mon Mar 18 20:28:42.931 2019] [3080] caught SIGTERM, shutting down
+[Mon Mar 18 20:28:43.061 2019] [3080] shutdown complete
+[Mon Mar 18 20:30:10.720 2019] [660] listening on all interfaces, port=9312
+[Mon Mar 18 20:30:10.721 2019] [660] listening on all interfaces, port=9306
+[Mon Mar 18 20:30:10.726 2019] [660] binlog: replaying log ./binlog.001
+[Mon Mar 18 20:30:10.727 2019] [660] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Mon Mar 18 20:30:10.727 2019] [660] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Mon Mar 18 20:30:10.727 2019] [660] binlog: replaying log ./binlog.002
+[Mon Mar 18 20:30:10.727 2019] [660] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Mon Mar 18 20:30:10.727 2019] [660] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Mon Mar 18 20:30:10.728 2019] [660] binlog: finished replaying total 2 in 0.001 sec
+[Mon Mar 18 20:30:10.729 2019] [660] accepting connections
+[Mon Mar 18 20:30:10.730 2019] [756] prereading 1 indexes
+[Mon Mar 18 20:30:10.730 2019] [756] prereaded 1 indexes in 0.000 sec

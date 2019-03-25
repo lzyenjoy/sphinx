@@ -2,10 +2,10 @@
 require_once 'sphinxapi.php';
 use Sphinx\SphinxClient;
 $s= new SphinxClient();
-$s->setServer('localhost',9312);
+$s->setServer('122.152.250.154',9312);
 $keyword = "好";//要搜索的关键字
 $index = 'goods';//索引名称
-//查询出关键字所在的主键id
+////查询出关键字所在的主键id
 $s->_limit = 2000;
 $res = $s->Query($keyword,$index);
 echo '<pre>';
@@ -17,7 +17,7 @@ if (isset($res['matches'])){
     return;
 }
 $mysql_conf = array(
-    'host'    => '127.0.0.1:3306',
+    'host'    => '122.152.250.154',
     'db'      => 'sphinx',
     'db_user' => 'root',
     'db_pwd'  => '123456',
