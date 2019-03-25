@@ -3,7 +3,7 @@ require_once 'sphinxapi.php';
 use Sphinx\SphinxClient;
 $s= new SphinxClient();
 $s->setServer('122.152.250.154',9312);
-$keyword = "好我是来测试钩子的";//要搜索的关键字
+$keyword = "好我是来测试钩子的吗";//要搜索的关键字
 $index = 'goods';//索引名称
 ////查询出关键字所在的主键id
 $s->_limit = 2000;
