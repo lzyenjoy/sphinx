@@ -209,3 +209,8 @@
 [Thu Mar 28 11:47:38.379 2019] [8236] prereaded 2 indexes in 0.001 sec
 [Thu Mar 28 11:48:25.020 2019] [8672] caught SIGTERM, shutting down
 [Thu Mar 28 11:48:25.094 2019] [8672] shutdown complete
+[Thu Mar 28 11:48:37.053 2019] [7776] listening on all interfaces, port=9312
+[Thu Mar 28 11:48:37.056 2019] [7776] listening on all interfaces, port=9306
+[Thu Mar 28 11:48:37.082 2019] [7776] accepting connections
+[Thu Mar 28 11:48:37.082 2019] [2448] prereading 2 indexes
+[Thu Mar 28 11:48:37.083 2019] [2448] prereaded 2 indexes in 0.001 sec

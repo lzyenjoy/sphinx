@@ -59,3 +59,6 @@
 [Thu Mar 28 11:45:49.818 2019] 0.001 sec 0.001 sec [ext/1/rel 5 (0,2000)] [order] 手
 [Thu Mar 28 11:46:04.800 2019] 0.000 sec 0.000 sec [ext/2/rel 0 (0,2000)] [order] 手
 [Thu Mar 28 11:47:44.219 2019] 0.000 sec 0.000 sec [ext/2/rel 0 (0,2000)] [order] 手
+[Thu Mar 28 11:48:42.688 2019] 0.000 sec 0.000 sec [ext/2/rel 3 (0,2000)] [order] 手
+[Thu Mar 28 11:49:25.077 2019] 0.000 sec 0.000 sec [ext/2/rel 5 (0,2000)] [order] 手
+[Thu Mar 28 11:49:31.037 2019] 0.000 sec 0.000 sec [ext/2/rel 3 (0,2000)] [order] 手
