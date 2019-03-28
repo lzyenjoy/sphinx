@@ -2,7 +2,6 @@
 require_once 'sphinxapi.php';
 use Sphinx\SphinxClient;
 $s= new SphinxClient();
-
 $oldTime=strtotime(date('Y-m-d H:i:s')."-2day");
 //$oldTime='2019-03-27 00:00:00';
 $s->setServer('localhost',9312);
