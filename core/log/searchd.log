@@ -7,3 +7,205 @@
 [Tue Mar 12 21:43:39.087 2019] [3980] accepting connections
 [Tue Mar 12 21:43:39.088 2019] [5944] prereading 1 indexes
 [Tue Mar 12 21:43:39.088 2019] [5944] prereaded 1 indexes in 0.000 sec
+[Thu Mar 14 14:21:31.140 2019] [8180] listening on all interfaces, port=9312
+[Thu Mar 14 14:21:31.147 2019] [8180] WARNING: index 'test': prealloc: failed to open D:\wamp64\www\sphinx\core\data\test.sph: No such file or directory; NOT SERVING
+[Thu Mar 14 14:21:31.150 2019] [8180] WARNING: index 'test_delta': prealloc: failed to open D:\wamp64\www\sphinx\core\data\test_delta.sph: No such file or directory; NOT SERVING
+[Thu Mar 14 14:21:31.152 2019] [8180] FATAL: no valid indexes to serve
+[Thu Mar 14 14:21:31.158 2019] [8180] shutdown complete
+[Wed Mar 27 16:51:19.766 2019] [4988] listening on all interfaces, port=9312
+[Wed Mar 27 16:51:19.769 2019] [4988] listening on all interfaces, port=9306
+[Wed Mar 27 16:51:19.800 2019] [4988] binlog: replaying log ./binlog.001
+[Wed Mar 27 16:51:19.802 2019] [4988] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Mar 27 16:51:19.803 2019] [4988] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Mar 27 16:51:19.804 2019] [4988] binlog: finished replaying total 1 in 0.003 sec
+[Wed Mar 27 16:51:19.811 2019] [4988] accepting connections
+[Wed Mar 27 16:51:19.812 2019] [7964] prereading 2 indexes
+[Wed Mar 27 16:51:19.813 2019] [7964] prereaded 2 indexes in 0.002 sec
+[Wed Mar 27 17:05:08.384 2019] [4988] caught SIGTERM, shutting down
+[Wed Mar 27 17:05:08.522 2019] [4988] shutdown complete
+[Wed Mar 27 17:05:15.508 2019] [8460] listening on all interfaces, port=9312
+[Wed Mar 27 17:05:15.511 2019] [8460] listening on all interfaces, port=9306
+[Wed Mar 27 17:05:15.535 2019] [8460] binlog: replaying log ./binlog.001
+[Wed Mar 27 17:05:15.536 2019] [8460] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Mar 27 17:05:15.537 2019] [8460] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Mar 27 17:05:15.538 2019] [8460] binlog: finished replaying total 1 in 0.003 sec
+[Wed Mar 27 17:05:15.544 2019] [8460] accepting connections
+[Wed Mar 27 17:05:15.544 2019] [7204] prereading 2 indexes
+[Wed Mar 27 17:05:15.547 2019] [7204] prereaded 2 indexes in 0.002 sec
+[Wed Mar 27 17:05:47.977 2019] [4164] query error: invalid or truncated request
+[Wed Mar 27 17:07:11.039 2019] [3088] query error: invalid or truncated request
+[Wed Mar 27 17:08:25.479 2019] [8460] caught SIGTERM, shutting down
+[Wed Mar 27 17:08:25.590 2019] [8460] shutdown complete
+[Wed Mar 27 17:08:36.304 2019] [7936] listening on all interfaces, port=9312
+[Wed Mar 27 17:08:36.307 2019] [7936] listening on all interfaces, port=9306
+[Wed Mar 27 17:08:36.332 2019] [7936] binlog: replaying log ./binlog.001
+[Wed Mar 27 17:08:36.333 2019] [7936] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Mar 27 17:08:36.334 2019] [7936] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Mar 27 17:08:36.336 2019] [7936] binlog: finished replaying total 1 in 0.003 sec
+[Wed Mar 27 17:08:36.341 2019] [7936] accepting connections
+[Wed Mar 27 17:08:36.341 2019] [9456] prereading 2 indexes
+[Wed Mar 27 17:08:36.343 2019] [9456] prereaded 2 indexes in 0.002 sec
+[Wed Mar 27 17:08:54.783 2019] [7548] query error: invalid or truncated request
+[Wed Mar 27 17:10:33.039 2019] [9884] query error: invalid or truncated request
+[Wed Mar 27 17:12:05.149 2019] [10224] query error: invalid or truncated request
+[Wed Mar 27 17:18:03.772 2019] [4132] query error: index order: no such filter attribute 'user_id'
+[Wed Mar 27 17:18:12.232 2019] [9176] query error: index order: no such filter attribute 'user_id'
+[Wed Mar 27 17:27:25.931 2019] [8504] query error: index order: no such filter attribute 'user_id'
+[Wed Mar 27 17:28:06.678 2019] [8288] query error: index order: no such filter attribute 'user_id'
+[Wed Mar 27 17:29:16.883 2019] [7936] caught SIGTERM, shutting down
+[Wed Mar 27 17:29:17.018 2019] [7936] shutdown complete
+[Wed Mar 27 17:29:29.183 2019] [8880] listening on all interfaces, port=9312
+[Wed Mar 27 17:29:29.186 2019] [8880] listening on all interfaces, port=9306
+[Wed Mar 27 17:29:29.210 2019] [8880] binlog: replaying log ./binlog.001
+[Wed Mar 27 17:29:29.211 2019] [8880] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Mar 27 17:29:29.212 2019] [8880] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Mar 27 17:29:29.214 2019] [8880] binlog: finished replaying total 1 in 0.003 sec
+[Wed Mar 27 17:29:29.221 2019] [8880] accepting connections
+[Wed Mar 27 17:29:29.221 2019] [832] prereading 2 indexes
+[Wed Mar 27 17:29:29.223 2019] [832] prereaded 2 indexes in 0.002 sec
+[Wed Mar 27 17:29:33.546 2019] [9604] query error: index order: no such filter attribute 'user_id'
+[Thu Mar 28 09:42:19.272 2019] [2244] listening on all interfaces, port=9312
+[Thu Mar 28 09:42:19.275 2019] [2244] listening on all interfaces, port=9306
+[Thu Mar 28 09:42:19.302 2019] [2244] binlog: replaying log ./binlog.001
+[Thu Mar 28 09:42:19.302 2019] [2244] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Thu Mar 28 09:42:19.304 2019] [2244] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Thu Mar 28 09:42:19.305 2019] [2244] binlog: replaying log ./binlog.002
+[Thu Mar 28 09:42:19.309 2019] [2244] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Thu Mar 28 09:42:19.309 2019] [2244] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Thu Mar 28 09:42:19.311 2019] [2244] binlog: finished replaying total 2 in 0.008 sec
+[Thu Mar 28 09:42:19.316 2019] [2244] accepting connections
+[Thu Mar 28 09:42:19.316 2019] [2304] prereading 2 indexes
+[Thu Mar 28 09:42:19.318 2019] [2304] prereaded 2 indexes in 0.002 sec
+[Thu Mar 28 10:01:50.236 2019] [2244] caught SIGTERM, shutting down
+[Thu Mar 28 10:01:50.335 2019] [2244] shutdown complete
+[Thu Mar 28 10:02:09.989 2019] [6360] listening on all interfaces, port=9312
+[Thu Mar 28 10:02:09.992 2019] [6360] listening on all interfaces, port=9306
+[Thu Mar 28 10:02:10.015 2019] [6360] binlog: replaying log ./binlog.001
+[Thu Mar 28 10:02:10.015 2019] [6360] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Thu Mar 28 10:02:10.016 2019] [6360] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Thu Mar 28 10:02:10.018 2019] [6360] binlog: replaying log ./binlog.002
+[Thu Mar 28 10:02:10.019 2019] [6360] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Thu Mar 28 10:02:10.020 2019] [6360] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Thu Mar 28 10:02:10.022 2019] [6360] binlog: finished replaying total 2 in 0.006 sec
+[Thu Mar 28 10:02:10.028 2019] [6812] prereading 2 indexes
+[Thu Mar 28 10:02:10.028 2019] [6360] accepting connections
+[Thu Mar 28 10:02:10.028 2019] [6812] prereaded 2 indexes in 0.001 sec
+[Thu Mar 28 10:06:42.104 2019] [2448] query error: index order: no such filter attribute 'user_id'
+[Thu Mar 28 10:19:38.650 2019] [6360] caught SIGTERM, shutting down
+[Thu Mar 28 10:19:38.707 2019] [6360] shutdown complete
+[Thu Mar 28 10:19:44.803 2019] [7860] listening on all interfaces, port=9312
+[Thu Mar 28 10:19:44.806 2019] [7860] listening on all interfaces, port=9306
+[Thu Mar 28 10:19:44.830 2019] [7860] binlog: replaying log ./binlog.001
+[Thu Mar 28 10:19:44.831 2019] [7860] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Thu Mar 28 10:19:44.832 2019] [7860] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Thu Mar 28 10:19:44.833 2019] [7860] binlog: replaying log ./binlog.002
+[Thu Mar 28 10:19:44.835 2019] [7860] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Thu Mar 28 10:19:44.836 2019] [7860] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Thu Mar 28 10:19:44.837 2019] [7860] binlog: finished replaying total 2 in 0.006 sec
+[Thu Mar 28 10:19:44.843 2019] [7860] accepting connections
+[Thu Mar 28 10:19:44.843 2019] [7888] prereading 2 indexes
+[Thu Mar 28 10:19:44.844 2019] [7888] prereaded 2 indexes in 0.002 sec
+[Thu Mar 28 10:27:22.347 2019] [7860] caught SIGTERM, shutting down
+[Thu Mar 28 10:27:22.490 2019] [7860] shutdown complete
+[Thu Mar 28 10:27:31.069 2019] [7812] listening on all interfaces, port=9312
+[Thu Mar 28 10:27:31.071 2019] [7812] listening on all interfaces, port=9306
+[Thu Mar 28 10:27:31.095 2019] [7812] binlog: replaying log ./binlog.001
+[Thu Mar 28 10:27:31.095 2019] [7812] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Thu Mar 28 10:27:31.096 2019] [7812] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Thu Mar 28 10:27:31.098 2019] [7812] binlog: replaying log ./binlog.002
+[Thu Mar 28 10:27:31.100 2019] [7812] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Thu Mar 28 10:27:31.101 2019] [7812] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Thu Mar 28 10:27:31.102 2019] [7812] binlog: finished replaying total 2 in 0.007 sec
+[Thu Mar 28 10:27:31.107 2019] [7812] accepting connections
+[Thu Mar 28 10:27:31.107 2019] [7420] prereading 2 indexes
+[Thu Mar 28 10:27:31.109 2019] [7420] prereaded 2 indexes in 0.002 sec
+[Thu Mar 28 10:45:22.338 2019] [5740] query error: index order: no such filter attribute 'user_id'
+[Thu Mar 28 10:45:32.180 2019] [7668] query error: index order: no such filter attribute 'user_id'
+[Thu Mar 28 10:45:41.920 2019] [7364] query error: index order: no such filter attribute 'user_id'
+[Thu Mar 28 10:46:15.823 2019] [6356] query error: index order: no such filter attribute 'user_id'
+[Thu Mar 28 10:46:30.009 2019] [6548] query error: index order: no such filter attribute 'user_id'
+[Thu Mar 28 10:46:37.271 2019] [2308] query error: index order: no such filter attribute 'user_id'
+[Thu Mar 28 10:55:18.014 2019] [8076] query error: index goods: no such filter attribute 'shop_id'
+[Thu Mar 28 10:55:31.621 2019] [8012] query error: invalid or truncated request
+[Thu Mar 28 10:55:39.348 2019] [2660] query error: invalid or truncated request
+[Thu Mar 28 10:56:09.539 2019] [7812] caught SIGTERM, shutting down
+[Thu Mar 28 10:56:09.623 2019] [7812] shutdown complete
+[Thu Mar 28 11:00:09.812 2019] [8064] listening on all interfaces, port=9312
+[Thu Mar 28 11:00:09.815 2019] [8064] listening on all interfaces, port=9306
+[Thu Mar 28 11:00:09.843 2019] [8064] accepting connections
+[Thu Mar 28 11:00:09.843 2019] [7176] prereading 2 indexes
+[Thu Mar 28 11:00:09.845 2019] [7176] prereaded 2 indexes in 0.002 sec
+[Thu Mar 28 11:00:15.057 2019] [7944] query error: invalid or truncated request
+[Thu Mar 28 11:10:58.515 2019] [8064] caught SIGTERM, shutting down
+[Thu Mar 28 11:10:58.625 2019] [8064] shutdown complete
+[Thu Mar 28 11:13:50.264 2019] [6668] listening on all interfaces, port=9312
+[Thu Mar 28 11:13:50.266 2019] [6668] listening on all interfaces, port=9306
+[Thu Mar 28 11:13:50.294 2019] [6668] accepting connections
+[Thu Mar 28 11:13:50.294 2019] [7268] prereading 2 indexes
+[Thu Mar 28 11:13:50.295 2019] [7268] prereaded 2 indexes in 0.001 sec
+[Thu Mar 28 11:14:24.662 2019] [6668] caught SIGTERM, shutting down
+[Thu Mar 28 11:14:24.802 2019] [6668] shutdown complete
+[Thu Mar 28 11:14:27.380 2019] [4348] listening on all interfaces, port=9312
+[Thu Mar 28 11:14:27.383 2019] [4348] listening on all interfaces, port=9306
+[Thu Mar 28 11:14:27.411 2019] [4348] accepting connections
+[Thu Mar 28 11:14:27.411 2019] [7156] prereading 2 indexes
+[Thu Mar 28 11:14:27.412 2019] [7156] prereaded 2 indexes in 0.001 sec
+[Thu Mar 28 11:14:30.400 2019] [4332] query error: index goods: no such filter attribute 'shop_id'
+[Thu Mar 28 11:16:51.603 2019] [4348] caught SIGTERM, shutting down
+[Thu Mar 28 11:16:51.726 2019] [4348] shutdown complete
+[Thu Mar 28 11:20:14.132 2019] [3084] listening on all interfaces, port=9312
+[Thu Mar 28 11:20:14.134 2019] [3084] listening on all interfaces, port=9306
+[Thu Mar 28 11:20:14.161 2019] [3084] accepting connections
+[Thu Mar 28 11:20:14.161 2019] [6304] prereading 2 indexes
+[Thu Mar 28 11:20:14.161 2019] [6304] prereaded 2 indexes in 0.001 sec
+[Thu Mar 28 11:32:52.080 2019] [3084] caught SIGTERM, shutting down
+[Thu Mar 28 11:32:52.159 2019] [3084] shutdown complete
+[Thu Mar 28 11:32:56.016 2019] [8588] listening on all interfaces, port=9312
+[Thu Mar 28 11:32:56.019 2019] [8588] listening on all interfaces, port=9306
+[Thu Mar 28 11:32:56.047 2019] [8588] accepting connections
+[Thu Mar 28 11:32:56.047 2019] [8412] prereading 2 indexes
+[Thu Mar 28 11:32:56.048 2019] [8412] prereaded 2 indexes in 0.001 sec
+[Thu Mar 28 11:33:40.697 2019] [8588] caught SIGTERM, shutting down
+[Thu Mar 28 11:33:40.775 2019] [8588] shutdown complete
+[Thu Mar 28 11:33:45.713 2019] [8904] listening on all interfaces, port=9312
+[Thu Mar 28 11:33:45.716 2019] [8904] listening on all interfaces, port=9306
+[Thu Mar 28 11:33:45.742 2019] [8904] accepting connections
+[Thu Mar 28 11:33:45.742 2019] [8940] prereading 2 indexes
+[Thu Mar 28 11:33:45.742 2019] [8940] prereaded 2 indexes in 0.001 sec
+[Thu Mar 28 11:42:34.070 2019] [8904] caught SIGTERM, shutting down
+[Thu Mar 28 11:42:34.188 2019] [8904] shutdown complete
+[Thu Mar 28 11:42:38.298 2019] [9204] listening on all interfaces, port=9312
+[Thu Mar 28 11:42:38.301 2019] [9204] listening on all interfaces, port=9306
+[Thu Mar 28 11:42:38.327 2019] [9204] accepting connections
+[Thu Mar 28 11:42:38.327 2019] [3332] prereading 2 indexes
+[Thu Mar 28 11:42:38.328 2019] [3332] prereaded 2 indexes in 0.001 sec
+[Thu Mar 28 11:43:15.439 2019] [9204] caught SIGTERM, shutting down
+[Thu Mar 28 11:43:15.577 2019] [9204] shutdown complete
+[Thu Mar 28 11:43:21.222 2019] [7652] listening on all interfaces, port=9312
+[Thu Mar 28 11:43:21.225 2019] [7652] listening on all interfaces, port=9306
+[Thu Mar 28 11:43:21.258 2019] [7652] accepting connections
+[Thu Mar 28 11:43:21.258 2019] [8024] prereading 2 indexes
+[Thu Mar 28 11:43:21.259 2019] [8024] prereaded 2 indexes in 0.001 sec
+[Thu Mar 28 11:44:22.219 2019] [7652] caught SIGTERM, shutting down
+[Thu Mar 28 11:44:22.372 2019] [7652] shutdown complete
+[Thu Mar 28 11:44:40.614 2019] [2448] listening on all interfaces, port=9312
+[Thu Mar 28 11:44:40.617 2019] [2448] listening on all interfaces, port=9306
+[Thu Mar 28 11:44:40.643 2019] [2448] accepting connections
+[Thu Mar 28 11:44:40.643 2019] [8240] prereading 2 indexes
+[Thu Mar 28 11:44:40.644 2019] [8240] prereaded 2 indexes in 0.001 sec
+[Thu Mar 28 11:45:04.590 2019] [2448] caught SIGTERM, shutting down
+[Thu Mar 28 11:45:04.658 2019] [2448] shutdown complete
+[Thu Mar 28 11:45:39.354 2019] [372] listening on all interfaces, port=9312
+[Thu Mar 28 11:45:39.356 2019] [372] listening on all interfaces, port=9306
+[Thu Mar 28 11:45:39.383 2019] [372] accepting connections
+[Thu Mar 28 11:45:39.383 2019] [524] prereading 2 indexes
+[Thu Mar 28 11:45:39.383 2019] [524] prereaded 2 indexes in 0.001 sec
+[Thu Mar 28 11:47:25.205 2019] [372] caught SIGTERM, shutting down
+[Thu Mar 28 11:47:25.352 2019] [372] shutdown complete
+[Thu Mar 28 11:47:38.350 2019] [8672] listening on all interfaces, port=9312
+[Thu Mar 28 11:47:38.352 2019] [8672] listening on all interfaces, port=9306
+[Thu Mar 28 11:47:38.378 2019] [8672] accepting connections
+[Thu Mar 28 11:47:38.378 2019] [8236] prereading 2 indexes
+[Thu Mar 28 11:47:38.379 2019] [8236] prereaded 2 indexes in 0.001 sec
+[Thu Mar 28 11:48:25.020 2019] [8672] caught SIGTERM, shutting down
+[Thu Mar 28 11:48:25.094 2019] [8672] shutdown complete
