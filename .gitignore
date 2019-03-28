@@ -1,3 +1,4 @@
 .idea  
 /core/log  
 /core/data  
+/core/bin/binlog.*
