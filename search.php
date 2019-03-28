@@ -2,6 +2,7 @@
 require_once 'sphinxapi.php';
 use Sphinx\SphinxClient;
 $s= new SphinxClient();
+<<<<<<< HEAD
 $oldTime=strtotime(date('Y-m-d H:i:s')."-2day");
 //$oldTime='2019-03-27 00:00:00';
 $s->setServer('localhost',9312);
@@ -10,6 +11,12 @@ $s->setFilterRange('ceateTime',$oldTime,time());
 $keyword = "手";//要搜索的关键字
 $index = 'order';//索引名称
 //查询出关键字所在的主键id
+=======
+$s->setServer('122.152.250.154',9312);
+$keyword = "好我是来 的";//要搜索的关键字
+$index = 'goods';//索引名称
+////查询出关键字所在的主键id
+>>>>>>> 6090a1dc9a17ed260b1ceb404b273e2118f7dc25
 $s->_limit = 2000;
 $res = $s->Query($keyword,$index);
 echo '<pre>';
@@ -21,8 +28,13 @@ if (isset($res['matches'])){
     return;
 }
 $mysql_conf = array(
+<<<<<<< HEAD
     'host'    => '127.0.0.1:3306',
     'db'      => 'zhlx',
+=======
+    'host'    => '122.152.250.154',
+    'db'      => 'sphinx',
+>>>>>>> 6090a1dc9a17ed260b1ceb404b273e2118f7dc25
     'db_user' => 'root',
     'db_pwd'  => '123456',
 );
