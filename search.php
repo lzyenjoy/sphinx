@@ -7,7 +7,7 @@ $oldTime=strtotime(date('Y-m-d H:i:s')."-2day");
 $s->setServer('localhost',9312);
 $s->SetFilter('user_id', array('308'));
 $s->setFilterRange('ceateTime',$oldTime,time());
-$keyword = "顺丰";//要搜索的关键字
+$keyword = "病毒";//要搜索的关键字
 $index = 'order';//索引名称
 //查询出关键字所在的主键id
 
