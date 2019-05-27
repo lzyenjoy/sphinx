@@ -2,13 +2,13 @@
 require_once 'sphinxapi.php';
 use Sphinx\SphinxClient;
 $s= new SphinxClient();
-$oldTime=strtotime(date('Y-m-d H:i:s')."-2day");
+//$oldTime=strtotime(date('Y-m-d H:i:s')."-2day");
 //$oldTime='2019-03-27 00:00:00';
 $s->setServer('localhost',9312);
-$s->SetFilter('user_id', array('308'));
-$s->setFilterRange('ceateTime',$oldTime,time());
-$keyword = '你好朋友';//要搜索的关键字
-$index = 'order';//索引名称
+//$s->SetFilter('user_id', array('308'));
+//$s->setFilterRange('ceateTime',$oldTime,time());
+$keyword = '水';//要搜索的关键字
+$index = 'goods';//索引名称
 //查询出关键字所在的主键id
 
 $s->_limit = 2000;
