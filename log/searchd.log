@@ -1,0 +1,330 @@
+[Wed May 29 15:49:00.315 2019] [6560] listening on all interfaces, port=9312
+[Wed May 29 15:49:00.320 2019] [6560] listening on all interfaces, port=9306
+[Wed May 29 15:49:00.324 2019] [6560] WARNING: index 'article_index': prealloc: failed to open D:\wamp64\www\sp\data\article_src.sph: No such file or directory; NOT SERVING
+[Wed May 29 15:49:00.330 2019] [6560] WARNING: index 'article_delta_index': prealloc: failed to open D:\wamp64\www\sp\data\article_delta.sph: No such file or directory; NOT SERVING
+[Wed May 29 15:49:00.332 2019] [6560] FATAL: no valid indexes to serve
+[Wed May 29 15:49:00.334 2019] [6560] shutdown complete
+[Wed May 29 15:49:38.385 2019] [7312] listening on all interfaces, port=9312
+[Wed May 29 15:49:38.390 2019] [7312] listening on all interfaces, port=9306
+[Wed May 29 15:49:38.429 2019] [7312] accepting connections
+[Wed May 29 15:49:38.429 2019] [4732] prereading 2 indexes
+[Wed May 29 15:49:38.432 2019] [4732] prereaded 2 indexes in 0.002 sec
+[Wed May 29 15:51:17.330 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 15:51:17.348 2019] [7320] rotating index 'article_delta_index': started
+[Wed May 29 15:51:17.401 2019] [7320] rotating index 'article_delta_index': success
+[Wed May 29 15:51:17.402 2019] [7320] rotating index: all indexes done
+[Wed May 29 15:51:53.920 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 15:51:53.957 2019] [7320] rotating index 'article_index': started
+[Wed May 29 15:51:54.018 2019] [7320] rotating index 'article_index': success
+[Wed May 29 15:51:54.019 2019] [7320] rotating index: all indexes done
+[Wed May 29 16:14:30.783 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:14:30.833 2019] [7320] rotating index 'article_delta_index': started
+[Wed May 29 16:14:30.892 2019] [7320] rotating index 'article_delta_index': success
+[Wed May 29 16:14:30.893 2019] [7320] rotating index 'article_index': started
+[Wed May 29 16:14:30.940 2019] [7320] rotating index 'article_index': success
+[Wed May 29 16:14:30.941 2019] [7320] rotating index: all indexes done
+[Wed May 29 16:14:30.985 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:14:30.987 2019] [7312] WARNING: nothing to rotate after SIGHUP
+[Wed May 29 16:14:55.625 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:14:55.643 2019] [7320] rotating index 'article_index': started
+[Wed May 29 16:14:55.702 2019] [7320] rotating index 'article_index': success
+[Wed May 29 16:14:55.704 2019] [7320] rotating index: all indexes done
+[Wed May 29 16:19:19.522 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:19:19.563 2019] [7320] rotating index 'article_delta_index': started
+[Wed May 29 16:19:19.628 2019] [7320] rotating index 'article_delta_index': success
+[Wed May 29 16:19:19.630 2019] [7320] rotating index 'article_index': started
+[Wed May 29 16:19:19.678 2019] [7320] rotating index 'article_index': success
+[Wed May 29 16:19:19.679 2019] [7320] rotating index: all indexes done
+[Wed May 29 16:19:19.725 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:19:19.728 2019] [7312] WARNING: nothing to rotate after SIGHUP
+[Wed May 29 16:27:13.474 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:27:13.501 2019] [7320] rotating index 'article_delta_index': started
+[Wed May 29 16:27:13.570 2019] [7320] rotating index 'article_delta_index': success
+[Wed May 29 16:27:13.571 2019] [7320] rotating index 'article_index': started
+[Wed May 29 16:27:13.617 2019] [7320] rotating index 'article_index': success
+[Wed May 29 16:27:13.618 2019] [7320] rotating index: all indexes done
+[Wed May 29 16:27:13.677 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:27:13.679 2019] [7312] WARNING: nothing to rotate after SIGHUP
+[Wed May 29 16:29:15.923 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:29:15.946 2019] [7320] rotating index 'article_delta_index': started
+[Wed May 29 16:29:16.012 2019] [7320] rotating index 'article_delta_index': success
+[Wed May 29 16:29:16.013 2019] [7320] rotating index 'article_index': started
+[Wed May 29 16:29:16.061 2019] [7320] rotating index 'article_index': success
+[Wed May 29 16:29:16.062 2019] [7320] rotating index: all indexes done
+[Wed May 29 16:29:16.126 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:29:16.129 2019] [7312] WARNING: nothing to rotate after SIGHUP
+[Wed May 29 16:29:52.532 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:29:52.537 2019] [7320] rotating index 'article_delta_index': started
+[Wed May 29 16:29:52.617 2019] [7320] rotating index 'article_delta_index': success
+[Wed May 29 16:29:52.619 2019] [7320] rotating index 'article_index': started
+[Wed May 29 16:29:52.664 2019] [7320] rotating index 'article_index': success
+[Wed May 29 16:29:52.665 2019] [7320] rotating index: all indexes done
+[Wed May 29 16:29:52.735 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:29:52.737 2019] [7312] WARNING: nothing to rotate after SIGHUP
+[Wed May 29 16:31:48.661 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:31:48.683 2019] [7320] rotating index 'article_delta_index': started
+[Wed May 29 16:31:48.745 2019] [7320] rotating index 'article_delta_index': success
+[Wed May 29 16:31:48.746 2019] [7320] rotating index 'article_index': started
+[Wed May 29 16:31:48.794 2019] [7320] rotating index 'article_index': success
+[Wed May 29 16:31:48.795 2019] [7320] rotating index: all indexes done
+[Wed May 29 16:31:48.864 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:31:48.867 2019] [7312] WARNING: nothing to rotate after SIGHUP
+[Wed May 29 16:32:27.974 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:32:28.008 2019] [7320] rotating index 'article_delta_index': started
+[Wed May 29 16:32:28.057 2019] [7320] rotating index 'article_delta_index': success
+[Wed May 29 16:32:28.058 2019] [7320] rotating index 'article_index': started
+[Wed May 29 16:32:28.107 2019] [7320] rotating index 'article_index': success
+[Wed May 29 16:32:28.108 2019] [7320] rotating index: all indexes done
+[Wed May 29 16:32:28.175 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:32:28.179 2019] [7312] WARNING: nothing to rotate after SIGHUP
+[Wed May 29 16:33:24.274 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:33:24.289 2019] [7320] rotating index 'article_delta_index': started
+[Wed May 29 16:33:24.338 2019] [7320] rotating index 'article_delta_index': success
+[Wed May 29 16:33:24.339 2019] [7320] rotating index: all indexes done
+[Wed May 29 16:33:30.476 2019] [7312] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed May 29 16:33:30.490 2019] [7320] rotating index 'article_index': started
+[Wed May 29 16:33:30.550 2019] [7320] rotating index 'article_index': success
+[Wed May 29 16:33:30.551 2019] [7320] rotating index: all indexes done
+[Thu May 30 09:49:38.566 2019] [6804] listening on all interfaces, port=9312
+[Thu May 30 09:49:38.569 2019] [6804] listening on all interfaces, port=9306
+[Thu May 30 09:49:38.612 2019] [6804] rotating index 'article_index': success
+[Thu May 30 09:49:38.662 2019] [6804] rotating index 'article_delta_index': success
+[Thu May 30 09:49:38.667 2019] [6804] binlog: replaying log D:\wamp64\www\sp\data/binlog.001
+[Thu May 30 09:49:38.667 2019] [6804] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Thu May 30 09:49:38.668 2019] [6804] binlog: finished replaying D:\wamp64\www\sp\data/binlog.001; 0.0 MB in 0.000 sec
+[Thu May 30 09:49:38.668 2019] [6804] binlog: finished replaying total 1 in 0.001 sec
+[Thu May 30 09:49:38.674 2019] [6804] accepting connections
+[Thu May 30 09:49:38.674 2019] [8016] prereading 2 indexes
+[Thu May 30 09:49:38.677 2019] [8016] prereaded 2 indexes in 0.002 sec
+[Thu May 30 09:49:59.844 2019] [6804] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 09:49:59.875 2019] [2300] rotating index 'article_delta_index': started
+[Thu May 30 09:49:59.923 2019] [2300] rotating index 'article_delta_index': success
+[Thu May 30 09:49:59.924 2019] [2300] rotating index 'article_index': started
+[Thu May 30 09:49:59.970 2019] [2300] rotating index 'article_index': success
+[Thu May 30 09:49:59.970 2019] [2300] rotating index: all indexes done
+[Thu May 30 09:50:00.045 2019] [6804] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 09:50:00.047 2019] [6804] WARNING: nothing to rotate after SIGHUP
+[Thu May 30 09:50:40.852 2019] [6804] caught SIGTERM, shutting down
+[Thu May 30 09:50:40.987 2019] [6804] shutdown complete
+[Thu May 30 09:50:42.042 2019] [4588] listening on all interfaces, port=9312
+[Thu May 30 09:50:42.046 2019] [4588] listening on all interfaces, port=9306
+[Thu May 30 09:50:42.084 2019] [4588] accepting connections
+[Thu May 30 09:50:42.084 2019] [7944] prereading 2 indexes
+[Thu May 30 09:50:42.086 2019] [7944] prereaded 2 indexes in 0.002 sec
+[Thu May 30 09:50:59.117 2019] [4588] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 09:50:59.134 2019] [6196] rotating index 'article_delta_index': started
+[Thu May 30 09:50:59.193 2019] [6196] rotating index 'article_delta_index': success
+[Thu May 30 09:50:59.194 2019] [6196] rotating index 'article_index': started
+[Thu May 30 09:50:59.240 2019] [6196] rotating index 'article_index': success
+[Thu May 30 09:50:59.241 2019] [6196] rotating index: all indexes done
+[Thu May 30 09:50:59.318 2019] [4588] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 09:50:59.321 2019] [4588] WARNING: nothing to rotate after SIGHUP
+[Thu May 30 09:54:24.821 2019] [4588] caught SIGTERM, shutting down
+[Thu May 30 09:54:24.916 2019] [4588] shutdown complete
+[Thu May 30 09:54:26.003 2019] [6832] listening on all interfaces, port=9312
+[Thu May 30 09:54:26.010 2019] [6832] listening on all interfaces, port=9306
+[Thu May 30 09:54:26.048 2019] [6832] accepting connections
+[Thu May 30 09:54:26.048 2019] [7320] prereading 2 indexes
+[Thu May 30 09:54:26.050 2019] [7320] prereaded 2 indexes in 0.002 sec
+[Thu May 30 09:54:29.848 2019] [6832] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 09:54:29.897 2019] [6404] rotating index 'article_delta_index': started
+[Thu May 30 09:54:29.962 2019] [6404] rotating index 'article_delta_index': success
+[Thu May 30 09:54:29.963 2019] [6404] rotating index 'article_index': started
+[Thu May 30 09:54:30.010 2019] [6404] rotating index 'article_index': success
+[Thu May 30 09:54:30.011 2019] [6404] rotating index: all indexes done
+[Thu May 30 09:54:30.050 2019] [6832] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 09:54:30.053 2019] [6832] WARNING: nothing to rotate after SIGHUP
+[Thu May 30 09:55:32.176 2019] [6832] caught SIGTERM, shutting down
+[Thu May 30 09:55:32.240 2019] [6832] shutdown complete
+[Thu May 30 09:55:34.240 2019] [8084] listening on all interfaces, port=9312
+[Thu May 30 09:55:34.244 2019] [8084] listening on all interfaces, port=9306
+[Thu May 30 09:55:34.283 2019] [8084] accepting connections
+[Thu May 30 09:55:34.283 2019] [4284] prereading 2 indexes
+[Thu May 30 09:55:34.285 2019] [4284] prereaded 2 indexes in 0.002 sec
+[Thu May 30 09:55:51.884 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 09:55:51.931 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 09:55:51.982 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 09:55:51.983 2019] [5204] rotating index 'article_index': started
+[Thu May 30 09:55:52.031 2019] [5204] rotating index 'article_index': success
+[Thu May 30 09:55:52.032 2019] [5204] rotating index: all indexes done
+[Thu May 30 09:55:52.084 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 09:55:52.087 2019] [8084] WARNING: nothing to rotate after SIGHUP
+[Thu May 30 09:56:05.101 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 09:56:05.133 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 09:56:05.185 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 09:56:05.186 2019] [5204] rotating index 'article_index': started
+[Thu May 30 09:56:05.239 2019] [5204] rotating index 'article_index': success
+[Thu May 30 09:56:05.240 2019] [5204] rotating index: all indexes done
+[Thu May 30 09:56:05.302 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 09:56:05.304 2019] [8084] WARNING: nothing to rotate after SIGHUP
+[Thu May 30 10:01:54.139 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:01:54.177 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 10:01:54.234 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 10:01:54.235 2019] [5204] rotating index 'article_index': started
+[Thu May 30 10:01:54.293 2019] [5204] rotating index 'article_index': success
+[Thu May 30 10:01:54.294 2019] [5204] rotating index: all indexes done
+[Thu May 30 10:01:54.342 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:01:54.344 2019] [8084] WARNING: nothing to rotate after SIGHUP
+[Thu May 30 10:01:59.393 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:01:59.402 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 10:01:59.456 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 10:01:59.457 2019] [5204] rotating index 'article_index': started
+[Thu May 30 10:01:59.507 2019] [5204] rotating index 'article_index': success
+[Thu May 30 10:01:59.508 2019] [5204] rotating index: all indexes done
+[Thu May 30 10:01:59.594 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:01:59.596 2019] [8084] WARNING: nothing to rotate after SIGHUP
+[Thu May 30 10:03:27.134 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:03:27.174 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 10:03:27.233 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 10:03:27.234 2019] [5204] rotating index 'article_index': started
+[Thu May 30 10:03:27.283 2019] [5204] rotating index 'article_index': success
+[Thu May 30 10:03:27.284 2019] [5204] rotating index: all indexes done
+[Thu May 30 10:03:27.336 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:03:27.339 2019] [8084] WARNING: nothing to rotate after SIGHUP
+[Thu May 30 10:03:36.320 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:03:36.344 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 10:03:36.407 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 10:03:36.408 2019] [5204] rotating index 'article_index': started
+[Thu May 30 10:03:36.455 2019] [5204] rotating index 'article_index': success
+[Thu May 30 10:03:36.456 2019] [5204] rotating index: all indexes done
+[Thu May 30 10:03:36.522 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:03:36.524 2019] [8084] WARNING: nothing to rotate after SIGHUP
+[Thu May 30 10:08:32.582 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:08:32.623 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 10:08:32.685 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 10:08:32.687 2019] [5204] rotating index: all indexes done
+[Thu May 30 10:17:44.448 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:17:44.457 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 10:17:44.535 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 10:17:44.536 2019] [5204] rotating index 'article_index': started
+[Thu May 30 10:17:44.580 2019] [5204] rotating index 'article_index': success
+[Thu May 30 10:17:44.580 2019] [5204] rotating index: all indexes done
+[Thu May 30 10:17:44.651 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:17:44.653 2019] [8084] WARNING: nothing to rotate after SIGHUP
+[Thu May 30 10:21:34.419 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:21:34.430 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 10:21:34.477 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 10:21:34.478 2019] [5204] rotating index 'article_index': started
+[Thu May 30 10:21:34.523 2019] [5204] rotating index 'article_index': success
+[Thu May 30 10:21:34.523 2019] [5204] rotating index: all indexes done
+[Thu May 30 10:21:34.622 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:21:34.625 2019] [8084] WARNING: nothing to rotate after SIGHUP
+[Thu May 30 10:43:20.464 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:43:20.477 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 10:43:20.545 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 10:43:20.546 2019] [5204] rotating index: all indexes done
+[Thu May 30 10:43:25.867 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:43:25.918 2019] [5204] rotating index 'article_index': started
+[Thu May 30 10:43:25.975 2019] [5204] rotating index 'article_index': success
+[Thu May 30 10:43:25.976 2019] [5204] rotating index: all indexes done
+[Thu May 30 10:44:06.157 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:44:06.198 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 10:44:06.262 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 10:44:06.262 2019] [5204] rotating index: all indexes done
+[Thu May 30 10:44:11.360 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:44:11.365 2019] [5204] rotating index 'article_index': started
+[Thu May 30 10:44:11.422 2019] [5204] rotating index 'article_index': success
+[Thu May 30 10:44:11.423 2019] [5204] rotating index: all indexes done
+[Thu May 30 10:51:53.663 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:51:53.676 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 10:51:53.730 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 10:51:53.731 2019] [5204] rotating index: all indexes done
+[Thu May 30 10:51:58.867 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:51:58.881 2019] [5204] rotating index 'article_index': started
+[Thu May 30 10:51:58.939 2019] [5204] rotating index 'article_index': success
+[Thu May 30 10:51:58.940 2019] [5204] rotating index: all indexes done
+[Thu May 30 10:56:53.158 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:56:53.203 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 10:56:53.257 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 10:56:53.258 2019] [5204] rotating index: all indexes done
+[Thu May 30 10:56:58.361 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 10:56:58.411 2019] [5204] rotating index 'article_index': started
+[Thu May 30 10:56:58.463 2019] [5204] rotating index 'article_index': success
+[Thu May 30 10:56:58.464 2019] [5204] rotating index: all indexes done
+[Thu May 30 11:01:53.190 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 11:01:53.228 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 11:01:53.292 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 11:01:53.292 2019] [5204] rotating index: all indexes done
+[Thu May 30 11:01:58.394 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 11:01:58.444 2019] [5204] rotating index 'article_index': started
+[Thu May 30 11:01:58.508 2019] [5204] rotating index 'article_index': success
+[Thu May 30 11:01:58.509 2019] [5204] rotating index: all indexes done
+[Thu May 30 11:06:53.214 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 11:06:53.255 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 11:06:53.319 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 11:06:53.320 2019] [5204] rotating index: all indexes done
+[Thu May 30 11:06:58.417 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 11:06:58.421 2019] [5204] rotating index 'article_index': started
+[Thu May 30 11:06:58.465 2019] [5204] rotating index 'article_index': success
+[Thu May 30 11:06:58.465 2019] [5204] rotating index: all indexes done
+[Thu May 30 11:17:46.488 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 11:17:46.495 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 11:17:46.560 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 11:17:46.561 2019] [5204] rotating index: all indexes done
+[Thu May 30 11:17:51.692 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 11:17:51.713 2019] [5204] rotating index 'article_index': started
+[Thu May 30 11:17:51.776 2019] [5204] rotating index 'article_index': success
+[Thu May 30 11:17:51.776 2019] [5204] rotating index: all indexes done
+[Thu May 30 11:17:53.095 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 11:17:53.127 2019] [5204] rotating index 'article_delta_index': started
+[Thu May 30 11:17:53.176 2019] [5204] rotating index 'article_delta_index': success
+[Thu May 30 11:17:53.178 2019] [5204] rotating index: all indexes done
+[Thu May 30 11:17:58.296 2019] [8084] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu May 30 11:17:58.329 2019] [5204] rotating index 'article_index': started
+[Thu May 30 11:17:58.375 2019] [5204] rotating index 'article_index': success
+[Thu May 30 11:17:58.375 2019] [5204] rotating index: all indexes done
+[Fri May 31 14:46:32.221 2019] [7384] listening on all interfaces, port=9312
+[Fri May 31 14:46:32.225 2019] [7384] listening on all interfaces, port=9306
+[Fri May 31 14:46:32.261 2019] [7384] binlog: replaying log D:\wamp64\www\sp\data/binlog.001
+[Fri May 31 14:46:32.262 2019] [7384] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Fri May 31 14:46:32.264 2019] [7384] binlog: finished replaying D:\wamp64\www\sp\data/binlog.001; 0.0 MB in 0.000 sec
+[Fri May 31 14:46:32.266 2019] [7384] binlog: finished replaying total 1 in 0.004 sec
+[Fri May 31 14:46:32.274 2019] [7384] accepting connections
+[Fri May 31 14:46:32.274 2019] [8636] prereading 2 indexes
+[Fri May 31 14:46:32.277 2019] [8636] prereaded 2 indexes in 0.004 sec
+[Fri May 31 14:48:31.560 2019] [7384] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Fri May 31 14:48:31.598 2019] [936] rotating index 'article_delta_index': started
+[Fri May 31 14:48:31.671 2019] [936] rotating index 'article_delta_index': success
+[Fri May 31 14:48:31.673 2019] [936] rotating index: all indexes done
+[Fri May 31 14:48:36.762 2019] [7384] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Fri May 31 14:48:36.780 2019] [936] rotating index 'article_index': started
+[Fri May 31 14:48:36.844 2019] [936] rotating index 'article_index': success
+[Fri May 31 14:48:36.845 2019] [936] rotating index: all indexes done
+[Fri May 31 14:49:07.446 2019] [7384] caught SIGTERM, shutting down
+[Fri May 31 14:49:07.552 2019] [7384] shutdown complete
+[Fri May 31 14:50:52.489 2019] [8908] listening on all interfaces, port=9312
+[Fri May 31 14:50:52.494 2019] [8908] listening on all interfaces, port=9306
+[Fri May 31 14:50:52.536 2019] [8908] accepting connections
+[Fri May 31 14:50:52.536 2019] [5548] prereading 2 indexes
+[Fri May 31 14:50:52.538 2019] [5548] prereaded 2 indexes in 0.002 sec
+[Fri May 31 14:51:22.010 2019] [8908] caught SIGTERM, shutting down
+[Fri May 31 14:51:22.152 2019] [8908] shutdown complete
+[Fri May 31 14:51:31.761 2019] [7108] listening on all interfaces, port=9312
+[Fri May 31 14:51:31.767 2019] [7108] listening on all interfaces, port=9306
+[Fri May 31 14:51:31.809 2019] [7108] accepting connections
+[Fri May 31 14:51:31.809 2019] [7804] prereading 2 indexes
+[Fri May 31 14:51:31.811 2019] [7804] prereaded 2 indexes in 0.002 sec
+[Fri May 31 15:21:28.524 2019] [7108] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Fri May 31 15:21:28.558 2019] [8732] rotating index 'article_delta_index': started
+[Fri May 31 15:21:28.623 2019] [8732] rotating index 'article_delta_index': success
+[Fri May 31 15:21:28.624 2019] [8732] rotating index: all indexes done
+[Fri May 31 15:21:33.727 2019] [7108] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Fri May 31 15:21:33.732 2019] [8732] rotating index 'article_index': started
+[Fri May 31 15:21:33.787 2019] [8732] rotating index 'article_index': success
+[Fri May 31 15:21:33.788 2019] [8732] rotating index: all indexes done
+[Fri May 31 15:21:54.553 2019] [7108] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Fri May 31 15:21:54.597 2019] [8732] rotating index 'article_delta_index': started
+[Fri May 31 15:21:54.653 2019] [8732] rotating index 'article_delta_index': success
+[Fri May 31 15:21:54.654 2019] [8732] rotating index: all indexes done
+[Fri May 31 15:21:59.956 2019] [7108] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Fri May 31 15:22:00.005 2019] [8732] rotating index 'article_index': started
+[Fri May 31 15:22:00.071 2019] [8732] rotating index 'article_index': success
+[Fri May 31 15:22:00.072 2019] [8732] rotating index: all indexes done
+[Fri May 31 15:22:55.185 2019] [7108] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Fri May 31 15:22:55.203 2019] [8732] rotating index 'article_delta_index': started
+[Fri May 31 15:22:55.275 2019] [8732] rotating index 'article_delta_index': success
+[Fri May 31 15:22:55.275 2019] [8732] rotating index: all indexes done
+[Fri May 31 15:23:00.586 2019] [7108] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Fri May 31 15:23:00.627 2019] [8732] rotating index 'article_index': started
+[Fri May 31 15:23:00.691 2019] [8732] rotating index 'article_index': success
+[Fri May 31 15:23:00.692 2019] [8732] rotating index: all indexes done

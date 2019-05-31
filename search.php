@@ -1,14 +1,11 @@
 <?php
-require_once 'sphinxapi.php';
+//require_once 'core.php';
+require_once './api/sphinxapi.php';
 use Sphinx\SphinxClient;
 $s= new SphinxClient();
-//$oldTime=strtotime(date('Y-m-d H:i:s')."-2day");
-//$oldTime='2019-03-27 00:00:00';
 $s->setServer('localhost',9312);
-//$s->SetFilter('user_id', array('308'));
-//$s->setFilterRange('ceateTime',$oldTime,time());
-$keyword = '水';//要搜索的关键字
-$index = 'goods';//索引名称
+$keyword = '喇叭';//要搜索的关键字
+$index = 'article_index';//索引名称
 //查询出关键字所在的主键id
 
 $s->_limit = 2000;
@@ -23,7 +20,7 @@ if (isset($res['matches'])){
 }
 $mysql_conf = array(
     'host'    => '127.0.0.1:3306',
-    'db'      => 'zhlx',
+    'db'      => 'sphinx',
     'db_user' => 'root',
     'db_pwd'  => '123456',
 );
@@ -37,7 +34,7 @@ if (!$select_db) {
     die("could not connect to the db:\n" .  $mysqli->error);
 }
 //$sql = "select subject,info,shop_id from good where id in ($ids)";
-$sql="SELECT a.id AS order_detail_id,a.user_id,a.total_m,a.gg1,a.gg2,a.oid,a.pic_src,a.subject_src,a.ceateTime,b.`subject`,b.info,b.pic,c.`Shop_name` FROM member_order_detail AS a LEFT JOIN good AS b ON a.good_id=b.id LEFT JOIN company AS c ON b.shop_id=c.id WHERE a.id in ($ids) ORDER BY a.id DESC";
+$sql="select * from documents where id IN($ids)";
 $res = $mysqli->query($sql);
 if (!$res) {
     die("sql error:\n" . $mysqli->error);
