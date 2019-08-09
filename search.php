@@ -5,7 +5,7 @@ use Sphinx\SphinxClient;
 $s= new SphinxClient();
 $s->setServer('localhost',9312);
 $keyword = '喇叭';//要搜索的关键字
-$index = 'article_index';//索引名称
+$index = 'article_index';//索引名称 asdfasd
 //查询出关键字所在的主键id
 
 $s->_limit = 2000;
